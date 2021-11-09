@@ -1,0 +1,6 @@
+luigi
+psycopg2
+requests
+pandas
+sqlalchemy
+pyTelegramBotAPI
